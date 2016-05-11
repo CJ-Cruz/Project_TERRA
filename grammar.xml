@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar version="1.0" language="English">
+
+	<entry sentence="the quick brown fox jumps over the lazy dog.">
+		<lex tag="DT">
+			the
+		</lex>
+		<lex tag="RB">
+			quick
+		</lex>
+		<lex tag="JJ">
+			brown
+		</lex>
+		<lex tag="NN">
+			fox
+		</lex>
+		<lex tag="VB">
+			jumps
+		</lex>
+		<lex tag="IN">
+			over
+		</lex>
+		<lex tag="DT">
+			the
+		</lex>
+		<lex tag="JJ">
+			lazy
+		</lex>
+		<lex tag="NN">
+			dog
+		</lex>
+		<lex tag=".">
+			.
+		</lex>
+	</entry>
+
+	<entry sentence="systemone will be online on month day.">
+		<lex tag="NN">
+			systemone
+		</lex>
+		<lex tag="MD">
+			will
+		</lex>
+		<lex tag="VB">
+			be
+		</lex>
+		<lex tag="RB">
+			online
+		</lex>
+		<lex tag="IN">
+			on
+		</lex>
+		<lex tag="NN">
+			month
+		</lex>
+		<lex tag="CD">
+			day
+		</lex>
+		<lex tag=".">
+			.
+		</lex>
+	</entry>
+
+	<entry sentence="if you are coming back from a leave of absence, can you not take part in the online registration?">
+		<lex tag="IN">
+			if
+		</lex>
+		<lex tag="PP">
+			you
+		</lex>
+		<lex tag="VBP">
+			are
+		</lex>
+		<lex tag="VBG">
+			coming
+		</lex>
+		<lex tag="RB">
+			back
+		</lex>
+		<lex tag="IN">
+			from
+		</lex>
+		<lex tag="DT">
+			a
+		</lex>
+		<lex tag="NN">
+			leave
+		</lex>
+		<lex tag="IN">
+			of
+		</lex>
+		<lex tag="NN">
+			absence
+		</lex>
+		<lex tag=",">
+			,
+		</lex>
+		<lex tag="MD">
+			can
+		</lex>
+		<lex tag="PP">
+			you
+		</lex>
+		<lex tag="RB">
+			not
+		</lex>
+		<lex tag="VB">
+			take
+		</lex>
+		<lex tag="NN">
+			part
+		</lex>
+		<lex tag="IN">
+			in
+		</lex>
+		<lex tag="DT">
+			the
+		</lex>
+		<lex tag="JJ">
+			online
+		</lex>
+		<lex tag="NN">
+			registration
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="when is online registration?">
+		<lex tag="WRB">
+			when
+		</lex>
+		<lex tag="VBZ">
+			is
+		</lex>
+		<lex tag="JJ">
+			online
+		</lex>
+		<lex tag="NN">
+			registration
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+
+
+	<entry sentence="Can you swap subjects in SystemOne?">
+		<lex tag="MD">
+			can
+		</lex>
+		<lex tag="PP">
+			you
+		</lex>
+		<lex tag="VB">
+			swap
+		</lex>
+		<lex tag="NNS">
+			subjects
+		</lex>
+		<lex tag="IN">
+			in
+		</lex>
+		<lex tag="NN">
+			systemone
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="why can't I finalize my schedule?">
+		<lex tag="WRB">
+			why
+		</lex>
+		<lex tag="MD">
+			can
+		</lex>
+		<lex tag="RB">
+			not
+		</lex>
+		<lex tag="PP">
+			I
+		</lex>
+		<lex tag="VB">
+			finalize
+		</lex>
+		<lex tag="PP$">
+			my
+		</lex>
+		<lex tag="NN">
+			schedule
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="My standing is good, so why am I only given 3 units?">
+		<lex tag="PP$">
+			my
+		</lex>
+		<lex tag="NN">
+			standing
+		</lex>
+		<lex tag="VBZ">
+			is
+		</lex>
+		<lex tag="JJ">
+			good
+		</lex>
+		<lex tag=",">
+			,
+		</lex>
+		<lex tag="IN">
+			so
+		</lex>
+		<lex tag="WRB">
+			why
+		</lex>
+		<lex tag="VBP">
+			am
+		</lex>
+		<lex tag="PP">
+			I
+		</lex>
+		<lex tag="RB">
+			only
+		</lex>
+		<lex tag="VBN">
+			given
+		</lex>
+		<lex tag="CD">
+			3
+		</lex>
+		<lex tag="NNS">
+			units
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+
+	</entry>
+
+	<entry sentence="why did my units become 0? I had complete units before.">
+		<lex tag="WRB">
+			why
+		</lex>
+		<lex tag="VBD">
+			did
+		</lex>
+		<lex tag="PP$">
+			my
+		</lex>
+		<lex tag="NNS">
+			units
+		</lex>
+		<lex tag="VB">
+			become
+		</lex>
+		<lex tag="CD">
+			0
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+		<lex tag="PP">
+			I
+		</lex>
+		<lex tag="VBD">
+			had
+		</lex>
+		<lex tag="JJ">
+			complete
+		</lex>
+		<lex tag="NNS">
+			units
+		</lex>
+		<lex tag="RB">
+			before
+		</lex>
+		<lex tag=".">
+			.
+		</lex>
+
+	</entry>
+
+	<entry sentence="Will there be stragglers this semester?">
+		<lex tag="MD">
+			will
+		</lex>
+		<lex tag="EX">
+			there
+		</lex>
+		<lex tag="VB">
+			be
+		</lex>
+		<lex tag="NN">
+			stragglers
+		</lex>
+		<lex tag="WDT">
+			this
+		</lex>
+		<lex tag="NN">
+			semester
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="when there is a problem.">
+		<lex tag="WRB">
+			when
+		</lex>
+		<lex tag="EX">
+			there
+		</lex>
+		<lex tag="VBZ">
+			is
+		</lex>
+		<lex tag="DT">
+			a
+		</lex>
+		<lex tag="NN">
+			problem
+		</lex>
+		<lex tag=".">
+			.
+		</lex>
+	</entry>
+
+	<entry sentence="when there are problems.">
+		<lex tag="WRB">
+			when
+		</lex>
+		<lex tag="EX">
+			there
+		</lex>
+		<lex tag="VBP">
+			are
+		</lex>
+		<lex tag="NNS">
+			problems
+		</lex>
+		<lex tag=".">
+			.
+		</lex>
+	</entry>
+
+	<entry sentence="are there any problems?">
+		<lex tag="VBP">
+			are
+		</lex>
+		<lex tag="EX">
+			there
+		</lex>
+		<lex tag="JJ">
+			any
+		</lex>
+		<lex tag="NNS">
+			problems
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="is there any problem?">
+		<lex tag="VBZ">
+			is
+		</lex>
+		<lex tag="EX">
+			there
+		</lex>
+		<lex tag="JJ">
+			any
+		</lex>
+		<lex tag="NNS">
+			problem
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="how to get there?">
+		<lex tag="WRB">
+			how
+		</lex>
+		<lex tag="TO">
+			to
+		</lex>
+		<lex tag="VB">
+			get
+		</lex>
+		<lex tag="RB">
+			there
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="it is in there.">
+		<lex tag="PP">
+			it
+		</lex>
+		<lex tag="VBZ">
+			is
+		</lex>
+		<lex tag="IN">
+			in
+		</lex>
+		<lex tag="RB">
+			there
+		</lex>
+		<lex tag=".">
+			.
+		</lex>
+	</entry>
+
+	<entry sentence="they are in there.">
+		<lex tag="PP">
+			they
+		</lex>
+		<lex tag="VBP">
+			are
+		</lex>
+		<lex tag="IN">
+			in
+		</lex>
+		<lex tag="RB">
+			there
+		</lex>
+		<lex tag=".">
+			.
+		</lex>
+	</entry>
+
+	<entry sentence="not in there.">
+		<lex tag="RB">
+			not
+		</lex>
+		<lex tag="IN">
+			in
+		</lex>
+		<lex tag="RB">
+			there
+		</lex>
+		<lex tag=".">
+			.
+		</lex>
+	</entry>
+
+	<entry sentence="why can't I enter the server?">
+		<lex tag="WRB">
+			why
+		</lex>
+		<lex tag="MD">
+			can
+		</lex>
+		<lex tag="RB">
+			not
+		</lex>
+		<lex tag="PP">
+			i
+		</lex>
+		<lex tag="VB">
+			enter
+		</lex>
+		<lex tag="DT">
+			the
+		</lex>
+		<lex tag="NN">
+			server
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="why is the finalize button not working?">
+		<lex tag="WRB">
+			why
+		</lex>
+		<lex tag="VBZ">
+			is
+		</lex>
+		<lex tag="DT">
+			the
+		</lex>
+		<lex tag="VB">
+			finalize
+		</lex>
+		<lex tag="NN">
+			button
+		</lex>
+		<lex tag="RB">
+			not
+		</lex>
+		<lex tag="VBG">
+			working
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="when will the AE start?">
+		<lex tag="WRB">
+			when
+		</lex>
+		<lex tag="MD">
+			will
+		</lex>
+		<lex tag="DT">
+			the
+		</lex>
+		<lex tag="NN">
+			ae
+		</lex>
+		<lex tag="VB">
+			start
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="when will be the start of online registration?">
+		<lex tag="WRB">
+			when
+		</lex>
+		<lex tag="MD">
+			will
+		</lex>
+		<lex tag="VB">
+			be
+		</lex>
+		<lex tag="DT">
+			the
+		</lex>
+		<lex tag="VB">
+			start
+		</lex>
+		<lex tag="IN">
+			of
+		</lex>
+		<lex tag="JJ">
+			online
+		</lex>
+		<lex tag="NN">
+			registration
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="why can't I cancel my subject?">
+		<lex tag="WRB">
+			why
+		</lex>
+		<lex tag="MD">
+			can
+		</lex>
+		<lex tag="RB">
+			not
+		</lex>
+		<lex tag="PP">
+			I
+		</lex>
+		<lex tag="VB">
+			cancel
+		</lex>
+		<lex tag="PP$">
+			my
+		</lex>
+		<lex tag="NN">
+			subject
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="why can't I log in?">
+		<lex tag="WRB">
+			why
+		</lex>
+		<lex tag="MD">
+			can
+		</lex>
+		<lex tag="RB">
+			not
+		</lex>
+		<lex tag="PP">
+			i
+		</lex>
+		<lex tag="VB">
+			log
+		</lex>
+		<lex tag="RB">
+			in
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="Where can we find the function to add PE subjects?">
+		<lex tag="WRB">
+			where
+		</lex>
+		<lex tag="MD">
+			can
+		</lex>
+		<lex tag="PP">
+			we
+		</lex>
+		<lex tag="VB">
+			find
+		</lex>
+		<lex tag="DT">
+			the
+		</lex>
+		<lex tag="NN">
+			function
+		</lex>
+		<lex tag="TO">
+			to
+		</lex>
+		<lex tag="VB">
+			add
+		</lex>
+		<lex tag="NN">
+			pe
+		</lex>
+		<lex tag="NN">
+			subjects
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="Why did my units turned zero?">
+		<lex tag="WRB">
+			why
+		</lex>
+		<lex tag="VBD">
+			did
+		</lex>
+		<lex tag="PP$">
+			my
+		</lex>
+		<lex tag="NN">
+			units
+		</lex>
+		<lex tag="VBD">
+			turned
+		</lex>
+		<lex tag="CD">
+			zero
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="what should I do if the subject is not included in the recommended courses?">
+		<lex tag="WP">
+			what
+		</lex>
+		<lex tag="MD">
+			should
+		</lex>
+		<lex tag="PP">
+			i
+		</lex>
+		<lex tag="VB">
+			do
+		</lex>
+		<lex tag="IN">
+			if
+		</lex>
+		<lex tag="DT">
+			the
+		</lex>
+		<lex tag="NN">
+			subject
+		</lex>
+		<lex tag="VBZ">
+			is
+		</lex>
+		<lex tag="RB">
+			not
+		</lex>
+		<lex tag="VBD">
+			included
+		</lex>
+		<lex tag="IN">
+			in
+		</lex>
+		<lex tag="DT">
+			the
+		</lex>
+		<lex tag="VBD">
+			recommended
+		</lex>
+		<lex tag="NNS">
+			courses
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="Kapag po ba galing ng leave of absence ay hindi kasama sa online registration?">
+		<lex tag="IN">
+			kapag
+		</lex>
+		<lex tag="IN">
+			galing
+		</lex>
+		<lex tag="IN">
+			ng
+		</lex>
+		<lex tag="NN">
+			leave
+		</lex>
+		<lex tag="IN">
+			of
+		</lex>
+		<lex tag="NN">
+			absence
+		</lex>
+		<lex tag="VBZ">
+			ay
+		</lex>
+		<lex tag="RB">
+			hindi
+		</lex>
+		<lex tag="JJ">
+			kasama
+		</lex>
+		<lex tag="IN">
+			sa
+		</lex>
+		<lex tag="JJ">
+			online
+		</lex>
+		<lex tag="NN">
+			registration
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="kailan po yung online registration?">
+		<lex tag="WRB">
+			kailan
+		</lex>
+		<lex tag="DT">
+			yung
+		</lex>
+		<lex tag="JJ">
+			online
+		</lex>
+		<lex tag="NN">
+			registration
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="Puwede po bang magpalit ng subject sa SystemOne?">
+		<lex tag="VBD">
+			puwede
+		</lex>
+		<lex tag="DT">
+			ang
+		</lex>
+		<lex tag="VBF">
+			magpalit
+		</lex>
+		<lex tag="DT">
+			ng
+		</lex>
+		<lex tag="NN">
+			subject
+		</lex>
+		<lex tag="IN">
+			sa
+		</lex>
+		<lex tag="NN">
+			systemone
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="bakit ayaw pong ma-finalize ng schedule ko?">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="RB">
+			ayaw
+		</lex>
+		<lex tag="UNL">
+			mag
+		</lex>
+		<lex tag="VB">
+			finalize
+		</lex>
+		<lex tag="DT">
+			ng
+		</lex>
+		<lex tag="NN">
+			schedule
+		</lex>
+		<lex tag="PP$">
+			ko			
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="Good standing naman po ako, pero bakit 3 units lang po ang ibinigay sa akin?">
+		<lex tag="JJ">
+			good
+		</lex>
+		<lex tag="NN">
+			standing
+		</lex>
+		<lex tag="VB">
+			naman
+		</lex>
+		<lex tag="PP">
+			ako
+		</lex>
+		<lex tag=",">
+			,
+		</lex>
+		<lex tag="IN">
+			pero
+		</lex>
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="CD">
+			3
+		</lex>
+		<lex tag="NNS">
+			units
+		</lex>
+		<lex tag="DT">
+			ang
+		</lex>
+		<lex tag="VBD">
+			ibinigay
+		</lex>
+		<lex tag="TO">
+			sa
+		</lex>
+		<lex tag="PP$">
+			akin
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="bakit po naging 0 units ako? Kumpleto po units ko kanina.">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="VB">
+			naging
+		</lex>
+		<lex tag="CD">
+			0
+		</lex>
+		<lex tag="NNS">
+			units
+		</lex>
+		<lex tag="PP">
+			ako
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+		<lex tag="JJ">
+			kumpleto
+		</lex>
+		<lex tag="NNS">
+			units
+		</lex>
+		<lex tag="PP$">
+			ko
+		</lex>
+		<lex tag="RB">
+			kanina
+		</lex>
+		<lex tag=".">
+			.
+		</lex>
+	</entry>
+
+	<entry sentence="May stragglers po ba ngayong sem?">
+		<lex tag="VB">
+			may
+		</lex>
+		<lex tag="NN">
+			stragglers
+		</lex>
+		<lex tag="WDT">
+			ngayong
+		</lex>
+		<lex tag="NN">
+			semester
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="huhu bakit hindi po makapasok sa server? ">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="RB">
+			hindi
+		</lex>
+		<lex tag="VB">
+			makapasok
+		</lex>
+		<lex tag="IN">
+			sa
+		</lex>
+		<lex tag="NN">
+			server
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="bakit hindi po gumagana yung finalize button?">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="RB">
+			hindi
+		</lex>
+		<lex tag="VBG">
+			gumagana
+		</lex>
+		<lex tag="DT">
+			yung
+		</lex>
+		<lex tag="VB">
+			finalize
+		</lex>
+		<lex tag="NN">
+			button
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="kailan po magsisimula ang AE?">
+		<lex tag="WRB">
+			kailan
+		</lex>
+		<lex tag="VBF">
+			magsisimula
+		</lex>
+		<lex tag="DT">
+			ang
+		</lex>
+		<lex tag="NN">
+			AE
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="bakit hindi po ako makapag-cancel ng subject?">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="RB">
+			hindi
+		</lex>
+		<lex tag="PP">
+			ako
+		</lex>
+		<lex tag="UNL">
+			makapag
+		</lex>
+		<lex tag="VB">
+			cancel
+		</lex>
+		<lex tag="DT">
+			ng
+		</lex>
+		<lex tag="NN">
+			subject
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="bakit hindi po ako makapag log in?">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="RB">
+			hindi
+		</lex>
+		<lex tag="PP">
+			ako
+		</lex>
+		<lex tag="UNL">
+			makapag
+		</lex>
+		<lex tag="VB">
+			log
+		</lex>
+		<lex tag="RB">
+			in
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="Saan po makikita yung pang-add ng PE subjects?">
+		<lex tag="WRB">
+			saan
+		</lex>
+		<lex tag="VBF">
+			makikita
+		</lex>
+		<lex tag="DT">
+			yung
+		</lex>
+		<lex tag="NN">
+			pandagdag
+		</lex>
+		<lex tag="IN">
+			ng
+		</lex>
+		<lex tag="NN">
+			pe
+		</lex>
+		<lex tag="NNS">
+			subjects
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="Bakit po biglang nawala units ko?">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="RB">
+			biglaang
+		</lex>
+		<lex tag="VBD">
+			nawala
+		</lex>
+		<lex tag="NNS">
+			units
+		</lex>
+		<lex tag="PP$">
+			ko
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="Ano ang ibig-sabihin nito?">
+		<lex tag="WP">
+			ano
+		</lex>
+		<lex tag="DT">
+			ang
+		</lex>
+		<lex tag="NN">
+			ibig
+		</lex>
+		<lex tag="SYM">
+			-
+		</lex>
+		<lex tag="VB">
+			sabihin
+		</lex>
+		<lex tag="nito">
+			sabihin
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+	
+	<entry sentence="man-man ba ang registration?">
+		<lex tag="NN">
+			man
+		</lex>
+		<lex tag="SYM">
+			-
+		</lex>
+		<lex tag="NN">
+			man
+		</lex>
+		<lex tag="DT">
+			ang
+		</lex>
+		<lex tag="NN">
+			registration
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="bakit 3 lang binigay sakin?">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="CD">
+			3
+		</lex>
+		<lex tag="RB">
+			lang
+		</lex>
+		<lex tag="VB">
+			binigay
+		</lex>
+		<lex tag="IN">
+			sa
+		</lex>
+		<lex tag="PP">
+			akin
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="bakit 3 lang binigay sakin?">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="CD">
+			3
+		</lex>
+		<lex tag="RB">
+			lang
+		</lex>
+		<lex tag="DT">
+			ang
+		</lex>
+		<lex tag="VB">
+			ibinigay
+		</lex>
+		<lex tag="IN">
+			sa
+		</lex>
+		<lex tag="PP">
+			akin
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="ano pong gagawing kapag wala ang subject sa recommended courses?">
+		<lex tag="WP">
+			ano
+		</lex>
+		<lex tag="DT">
+			ang
+		</lex>
+		<lex tag="VBF">
+			gagawin
+		</lex>
+		<lex tag="IN">
+			kapag
+		</lex>
+		<lex tag="JJ">
+			wala
+		</lex>
+		<lex tag="DT">
+			ang
+		</lex>
+		<lex tag="NN">
+			subject
+		</lex>
+		<lex tag="IN">
+			sa
+		</lex>
+		<lex tag="VBD">
+			recommended
+		</lex>
+		<lex tag="NNS">
+			courses
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="bakit hindi ako makapag-login?">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="RB">
+			hindi
+		</lex>
+		<lex tag="PP">
+			ako
+		</lex>
+		<lex tag="UNL">
+			makapag
+		</lex>
+		<lex tag="SYM">
+			-
+		</lex>
+		<lex tag="VB">
+			login
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="paano i-login ang account ko?">
+		<lex tag="WRB">
+			paano
+		</lex>
+		<lex tag="UNL">
+			i
+		</lex>
+		<lex tag="SYM">
+			-
+		</lex>
+		<lex tag="VB">
+			login
+		</lex>
+		<lex tag="DT">
+			ang
+		</lex>
+		<lex tag="NN">
+			account
+		</lex>
+		<lex tag="PP$">
+			ko
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="bakit hindi maka-login?">
+		<lex tag="WRB">
+			bakit
+		</lex>
+		<lex tag="RB">
+			hindi
+		</lex>
+		<lex tag="UNL">
+			maka
+		</lex>
+		<lex tag="SYM">
+			-
+		</lex>
+		<lex tag="VB">
+			login
+		</lex>
+		<lex tag=".">
+			?
+		</lex>
+	</entry>
+
+	<entry sentence="i can not login.">
+		<lex tag="PP">
+			I
+		</lex>
+		<lex tag="MD">
+			can
+		</lex>
+		<lex tag="RB">
+			not
+		</lex>
+		<lex tag="VB">
+			login
+		</lex>
+		<lex tag=".">
+			.
+		</lex>
+	</entry>
+
+
+
+</grammar>

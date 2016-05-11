@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knowledge version="1.0" language="English">
+
+	<entry group="not fault" lang="1">
+		<answer>
+			<aentry>[reply to why incomplete units].</aentry>
+		</answer>
+		<question>
+			<qentry>Why do I only have 3 units?</qentry>
+			<qentry>Why was I given only 3 units?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="not fault" lang="2">
+		<answer>
+			<aentry>[sagot sa bakit hindi kumpleto units].</aentry>
+		</answer>
+		<question>
+			<qentry>Bakit 3 units lang binigay sakin?</qentry>
+			<qentry>Bakit 3 units lang ang ibinigay sakin?</qentry>
+			<qentry>Bakit 3 units lang ako?</qentry>
+			<qentry>Bakit 3 lang units ko?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="zero units f5a" lang="1">
+		<answer>
+			<aentry>[answer to if zero units get form5a].</aentry>
+		</answer>
+		<question>
+			<qentry>If I have 0 units, should I get form 5 a?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="zero units f5a" lang="2">
+		<answer>
+			<aentry>[sagot sa kung zero units kukuha ba ng form5a].</aentry>
+		</answer>
+		<question>
+			<qentry>kapag 0 units, form 5 a ang kukunin?</qentry>
+			<qentry>kapag 0 units, kukuha ng form 5 a?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="pe change" lang="1">
+		<answer>
+			<aentry>[instructions for changing PE].</aentry>
+		</answer>
+		<question>
+			<qentry>How to change PE</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="pe change" lang="2">
+		<answer>
+			<aentry>[instructions sa pagpalit ng PE].</aentry>
+		</answer>
+		<question>
+			<qentry>Paano magpalit ng PE?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="form5 no id" lang="1">
+		<answer>
+			<aentry>[instructions for getting form 5 without id].</aentry>
+		</answer>
+		<question>
+			<qentry>How can I get form 5 without id?</qentry>
+			<qentry>How can I get form 5 if my id is missing?</qentry>
+			<qentry>How can I get form 5 if I have no id?</qentry>
+						
+		</question>
+	</entry>
+
+	<entry group="form5 no id" lang="2">
+		<answer>
+			<aentry>[instructions sa pagkuha ng form 5 na walang id].</aentry>
+		</answer>
+		<question>
+			<qentry>Pano makukuha ang form 5 na wala ang id?</qentry>
+			<qentry>Pano makukuha ang form 5 pag nawala ang id?</qentry>
+			<qentry>Pano kukuha ng form 5 na wala ang id?</qentry>
+			<qentry>Pano kukuha ng form 5 pag nawala ang id?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="id assisted enlistment" lang="1">
+		<answer>
+			<aentry>Yes.</aentry>
+		</answer>
+		<question>
+			<qentry>Do we need to bring id for ae?</qentry>
+			<qentry>Do we need to bring id for manual reg?</qentry>
+						
+		</question>
+	</entry>
+
+	<entry group="id assisted enlistment" lang="2">
+		<answer>
+			<aentry>Kailangan.</aentry>
+			<aentry>Oo.</aentry>
+		</answer>
+		<question>
+			<qentry>kailangan magdala ng id para sa ae?</qentry>
+			<qentry>kailangan magdala ng id para sa manual reg?</qentry>
+			<qentry>kailangan ang magdala ng id para sa ae?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="submit button" lang="1">
+		<answer>
+			<aentry>[reply to submit button failure]</aentry>
+		</answer>
+		<question>
+			<qentry>why is the submit button not working?</qentry>
+						
+		</question>
+	</entry>
+
+	<entry group="submit button" lang="2">
+		<answer>
+			<aentry>[sagot sa submit button failure]</aentry>
+		</answer>
+		<question>
+			<qentry>bakit ayaw po gumana ng submit button?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="wait form 5" lang="1">
+		<answer>
+			<aentry>Finalize first then wait about 24 to 36 hours.</aentry>
+		</answer>
+		<question>
+			<qentry>how long should i wait for the form 5?</qentry>
+			<qentry>how long should i wait for the form 5?</qentry>
+			<qentry>how many hours should i wait for the form 5?</qentry>
+			<qentry>how many hours should i wait for the form 5?</qentry>
+			<qentry>how many hours before i could get the form 5?</qentry>
+			<qentry>how many hours before i could get the form 5?</qentry>
+						
+		</question>
+	</entry>
+
+	<entry group="wait form 5" lang="2">
+		<answer>
+			<aentry>Magfinalize muna tapos maghintay ng 24 hanggang 36 na oras.</aentry>
+		</answer>
+		<question>
+			<qentry>gaano katagal ang hihintayin para makuha form 5?</qentry>
+			<qentry>ilang oras ang hihintayin para makuha form 5?</qentry>
+			<qentry>ilang oras bago makuha ang form 5?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="kailan form 5">
+		<answer>
+			<aentry>24-36 hours after magfinalize.</aentry>
+		</answer>
+		<question>
+			<qentry>when can i get my form 5?</qentry>
+			<qentry>kailan makukuha ang form 5?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="wait after finalize" lang="1">
+		<answer>
+			<aentry>About 24 to 36 hours.</aentry>
+		</answer>
+		<question>
+			<qentry>how long should i wait for the form 5 after finalizing?</qentry>
+			<qentry>how long should i wait for the form 5 after I finalize?</qentry>
+			<qentry>how many hours should i wait for the form 5 after finalizing?</qentry>
+			<qentry>how many hours should i wait for the form 5 after I finalize?</qentry>
+			<qentry>how many hours before i could get the form 5 after finalizing?</qentry>
+			<qentry>how many hours before i could get the form 5 after I finalize?</qentry>
+						
+		</question>
+	</entry>
+
+	<entry group="wait after finalize" lang="2">
+		<answer>
+			<aentry>Mga 24 hanggang 36 na oras.</aentry>
+		</answer>
+		<question>
+			<qentry>gaano katagal ang hihintayin para makuha form 5 pagkatapos mag finalize?</qentry>
+			<qentry>ilang oras ang hihintayin para makuha form 5 pagkatapos mag finalize?</qentry>
+			<qentry>ilang oras bago makuha ang form 5 pagkatapos mag finalize?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="finalize deadline" lang="1">
+		<answer>
+			<aentry>Finalizing schedule is until [finalize deadline].</aentry>
+		</answer>
+		<question>
+			<qentry>When is the deadline for finalizing schedule?</qentry>
+			<qentry>Until when can we finalize schedule?</qentry>
+			<qentry>When is the deadline for finalizing?</qentry>
+			<qentry>Until when can we finalize?</qentry>
+						
+		</question>
+	</entry>
+
+	<entry group="finalize deadline" lang="2">
+		<answer>
+			<aentry>Hanggangang [finalize deadline] ang finalization.</aentry>
+		</answer>
+		<question>
+			<qentry>kailan ang deadline ng finalize ng sched?</qentry>
+			<qentry>ano ang deadline ng finalize ng sched?</qentry>
+			<qentry>kailan ang deadline ng finalize?</qentry>
+			<qentry>ano ang deadline ng finalize?</qentry>
+			<qentry>hanggang kailan puwede magfinalize?</qentry>
+			<qentry>hanggang kailan puwede magfinalize ng sched?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="units capped" lang="1">
+		<answer>
+			<aentry>[reply to capped units].</aentry>
+		</answer>
+		<question>
+			<qentry>Why do I only have 3 max units?</qentry>
+			<qentry>Why was I given only 3 max units?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="units capped" lang="2">
+		<answer>
+			<aentry>[sagot sa capped units].</aentry>
+		</answer>
+		<question>
+			<qentry>Bakit 3 units max lang binigay sakin?</qentry>
+			<qentry>Bakit 3 units max lang ang ibinigay sakin?</qentry>
+			<qentry>Bakit 3 units max lang ako?</qentry>
+			<qentry>Bakit 3 lang max units ko?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="s1 awol" lang="1">
+		<answer>
+			<aentry>[reply about back from awol registration].</aentry>
+		</answer>
+		<question>
+			<qentry>Should I join systemone after getting back from awol?</qentry>
+			<qentry>Should take part in systemone after getting back from awol?</qentry>
+			<qentry>Should I join registration after getting back from awol?</qentry>
+			<qentry>Should take part in registration after getting back from awol?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="s1 awol" lang="2">
+		<answer>
+			<aentry>[sagot sa registration galing awol].</aentry>
+		</answer>
+		<question>
+			<qentry>Sasali ba sa registration kapag galing awol?</qentry>
+			<qentry>Kasama ba sa registration kapag galing awol?</qentry>
+			<qentry>Kasali ba sa registration kapag galing awol?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="s1 loa" lang="1">
+		<answer>
+			<aentry>[reply about back from loa registration].</aentry>
+		</answer>
+		<question>
+			<qentry>Should I join systemone after getting back from loa?</qentry>
+			<qentry>Should I take part in systemone after getting back from loa?</qentry>
+			<qentry>Should I join online registration after getting back from loa?</qentry>
+			<qentry>Should I take part in online registration after getting back from loa?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="s1 loa" lang="2">
+		<answer>
+			<aentry>[sagot sa registration galing loa].</aentry>
+		</answer>
+		<question>
+			<qentry>Hindi ba Sasali sa registration kapag galing from loa?</qentry>
+			<qentry>Hindi ba kasama sa registration kapag galing from loa?</qentry>
+			<qentry>hindi ba Kasali sa registration kapag galing from loa?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="manual dismissed" lang="1">
+		<answer>
+			<aentry>[reply about manual registration after dismissed last sem].</aentry>
+		</answer>
+		<question>
+			<qentry>Is the registration manual after being dismissed last semester?</qentry>
+		
+		</question>
+	</entry>
+
+	<entry group="manual dismissed" lang="2">
+		<answer>
+			<aentry>[sagot sa manual registration kapag dismissed last sem].</aentry>
+		</answer>
+		<question>
+			<qentry>manual ang registration kapag dismissed last sem?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="s1 crash" lang="1">
+		<answer>
+			<aentry>There is too much load on the server.</aentry>
+		</answer>
+		<question>
+			<qentry>Why is systemone always crashing?</qentry>
+			<qentry>Why did systemone crash?</qentry>
+			<qentry>Why is systemone always hanging?</qentry>
+			<qentry>Why did systemone hang?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="s1 crash" lang="2">
+		<answer>
+			<aentry>Masyadong maraming tao ang gumagamit.</aentry>
+		</answer>
+		<question>
+			<qentry>bakit lagi nag crash ang systemone?</qentry>
+			<qentry>bakit nag crash ang systemone?</qentry>
+			<qentry>bakit lagi nag hang ang systemone?</qentry>
+			<qentry>bakit nag hang ang systemone?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="missing recommended" lang="1">
+		<answer>
+			<aentry>We are still processing data from OUR.</aentry>
+		</answer>
+		<question>
+			<qentry>Where is my recommended courses?</qentry>
+			<qentry>Why is my recommended courses gone?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="missing recommended" lang="2">
+		<answer>
+			<aentry>Pinaprocess pa namin ang data galing OUR.</aentry>
+		</answer>
+		<question>
+			<qentry>bakit nawala ang recommended courses ko?</qentry>
+			<qentry>nasaan ang recommended courses ko?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="re-access s1" lang="1">
+		<answer>
+			<aentry>Later [s1 access time].</aentry>
+		</answer>
+		<question>
+			<qentry>when can we access systemone again?</qentry>
+			<qentry>what time can we access systemone again?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="re-access s1" lang="2">
+		<answer>
+			<aentry>Mamayang [s1 access time].</aentry>
+		</answer>
+		<question>
+			<qentry>anong oras pwede ulit maaccess ang systemone?</qentry>
+			<qentry>kailan ulit maaccess ang systemone?</qentry>
+			<qentry>kailan makakapasok sa systemone?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="change elective s1" lang="1">
+		<answer>
+			<aentry>[reply to change elective error].</aentry>
+		</answer>
+		<question>
+			<qentry>why did change of elective didn't work?</qentry>
+			<qentry>why did change of electives didn't work?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="change elective s1" lang="2">
+		<answer>
+			<aentry>[sagot sa pagpalit elective error].</aentry>
+		</answer>
+		<question>
+			<qentry>bakit hindi gumana yung change of elective sa systemone?</qentry>
+			<qentry>bakit hindi gumana yung change of electives sa systemone?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="dream sched" lang="1">
+		<answer>
+			<aentry>Dream schedule is currently under maintenance.</aentry>
+		</answer>
+		<question>
+			<qentry>why is the dream sched feature not working?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="dream sched" lang="2">
+		<answer>
+			<aentry>May inaayos pa sa dream schedule feature.</aentry>
+		</answer>
+		<question>
+			<qentry>bakit hindi gumana yung dream sched feature?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="probee" lang="1">
+		<answer>
+			<aentry>[reply to todo action of probee].</aentry>
+		</answer>
+		<question>
+			<qentry>what to do if back from probation?</qentry>
+			<qentry>what to do if probee?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="probee" lang="2">
+		<answer>
+			<aentry>[sagot sa gagawin ng probee].</aentry>
+		</answer>
+		<question>
+			<qentry>anong gagawin kapag galing probation?</qentry>
+			<qentry>anong gagawin kapag probee?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="extended" lang="1">
+		<answer>
+			<aentry>Not yet certain if extended or not.</aentry>
+		</answer>
+		<question>
+			<qentry>is the registration period extended?</qentry>
+			<qentry>is the online registration extended?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="extended" lang="2">
+		<answer>
+			<aentry>Hindi pa alam kung extended o hindi.</aentry>
+		</answer>
+		<question>
+			<qentry>extended ang registration period?</qentry>
+			<qentry>extended ang online registration?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="account fail" lang="1">
+		<answer>
+			<aentry>Please proceed to the OUR and report this problem.</aentry>
+		</answer>
+		<question>
+			<qentry>what to do if I can't access my systemone account?</qentry>
+			<qentry>I can't access my systemone account.</qentry>
+			<qentry>what to do if I can't open my systemone account?</qentry>
+			<qentry>I can't open my systemone account.</qentry>
+			<qentry>invalid password and username ang systemone account ko.</qentry>
+			<qentry>invalid password ang systemone account ko.</qentry>
+			<qentry>why invalid password and username ang systemone account ko.</qentry>
+			<qentry>why invalid password ang systemone account ko.</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="account fail" lang="2">
+		<answer>
+			<aentry>Agad pumunta sa OUR at sabihin itong problemang ito.</aentry>
+		</answer>
+		<question>
+			<qentry>Ano ang gagawin kapag hindi ma open ang systemone account ko?</qentry>
+			<qentry>Ano ang gagawin kapag hindi ma access ang systemone account ko?</qentry>
+			<qentry>hindi ko ma open ang systemone account.</qentry>
+			<qentry>hindi ko ma access ang systemone account.</qentry>
+			<qentry>bakit invalid password and username ang systemone account ko?</qentry>
+			<qentry>bakit invalid password ang systemone account ko?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="not in recom" lang="1">
+		<answer>
+			<aentry>[answer to not recommended courses problem].</aentry>
+		</answer>
+		<question>
+			<qentry>what should I do if the subject is not included in the recommended courses?</qentry>
+			<qentry>subject is not included in the recommended courses.</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="not in recom" lang="2">
+		<answer>
+			<aentry>[sagot sa problema na wala sa recommended courses ang subject].</aentry>
+		</answer>
+		<question>
+			<qentry>ano ang gagawin kapag wala ang subject sa recommended courses?</qentry>
+			<qentry>wala ang subject sa recommended courses.</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="where form5" lang="1">
+		<answer>
+			<aentry>You can get your form 5 at your college.</aentry>
+		</answer>
+		<question>
+			<qentry>what can I get my form 5?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="where form5" lang="2">
+		<answer>
+			<aentry>Pwede mong kunin sa iyong college.</aentry>
+		</answer>
+		<question>
+			<qentry>saan makukuha ang form 5 ko?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="after form5" lang="1">
+		<answer>
+			<aentry>Kindly fill up your form 5 and process the fees at OUR Window 8 or 9, or head to the cashier to pay.</aentry>
+		</answer>
+		<question>
+			<qentry>what to do after getting form 5?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="after form5" lang="2">
+		<answer>
+			<aentry>Pakikumpleto ang mga blanko sa form 5 tapos iproseso ang mga bayarin sa OUR Window 8 or 9, o kaya pumunta agad sa cashier para magbayad.</aentry>
+		</answer>
+		<question>
+			<qentry>ano ang gagawin pagkatapos makuha ang form 5 ko?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="assessment window">
+		<answer>
+			<aentry>Window 8 or 9.</aentry>
+		</answer>
+		<question>
+			<qentry>ano ang window ng scholarship assessment?</qentry>
+			<qentry>ano ang window ng scholars?</qentry>
+			<qentry>ano ang window ng assessment of fees?</qentry>
+			
+
+		</question>
+	</entry>
+
+	<entry group="stamping window">
+		<answer>
+			<aentry>Window 10 or 11.</aentry>
+		</answer>
+		<question>
+			<qentry>ano ang window ng form 5 stamping?</qentry>
+			<qentry>ano ang window ng pangregister ng form 5?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="windows">
+	<answer>
+			<aentry>Sa OUR.</aentry>
+		</answer>
+		<question>
+			<qentry>saan ang window ng scholarship assessment?</qentry>
+			<qentry>saan ang window ng scholars?</qentry>
+			<qentry>saan ang window ng assessment of fees?</qentry>
+			<qentry>saan ang window ng form 5 stamping?</qentry>
+			<qentry>saan ang window ng pangregister ng form 5?</qentry>
+	
+		</question>
+					
+	</entry>
+
+	<entry group="OUR">
+	<answer>
+			<aentry>Office of the University Registrar. Doon ang assessment ng fees at stamping ng form 5.</aentry>
+		</answer>
+		<question>
+			<qentry>ano ang OUR?</qentry>
+			<qentry>what is OUR?</qentry>
+			
+		</question>
+					
+	</entry>
+
+	<entry group="Stragglers time">
+	<answer>
+			<aentry>[straggler start date/time]</aentry>
+		</answer>
+		<question>
+			<qentry>what time will stragglers start?</qentry>
+			<qentry>when will stragglers start?</qentry>
+			<qentry>anong oras ang simula ng stragglers?</qentry>
+			<qentry>kailan ang simula ng stragglers?</qentry>
+			
+		</question>
+					
+	</entry>
+
+
+
+</knowledge>

@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary version="1.0" language="English">
+
+	<word token="'s">
+		<entry tag="POS">
+		</entry>
+
+	</word>
+
+	<word token="'">
+		<entry tag="POS">
+		</entry>
+		<entry tag="SYM">
+		</entry>
+
+	</word>
+
+	<word token="-">
+		<entry tag="SYM">
+		</entry>
+
+	</word>
+
+	<word token=",">
+		<entry tag=",">
+		</entry>
+
+	</word>
+
+	<word token=".">
+		<entry tag=".">
+		</entry>
+		<entry tag="SYM">
+		</entry>
+		
+	</word>
+
+	<word token="!">
+		<entry tag=".">
+		</entry>
+		
+	</word>
+
+	<word token="?">
+		<entry tag=".">
+		</entry>
+		<entry tag="SYM">
+		</entry>
+		
+	</word>
+
+	<word token="a">
+		<entry tag="DT" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="absence">
+		<entry tag="NN">
+		</entry>
+		
+	</word>
+
+	<word token="access">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="account">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="add">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="additional">
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="after">
+		<entry tag="IN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="assessment">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="assisted">
+		<entry tag="VBD" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="akin">
+		<entry tag="PP$" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="ako">
+		<entry tag="PP" lang="2">
+		</entry>
+
+	</word>
+
+	<word token="am">
+		<entry tag="VBP" lang="1">
+		</entry>
+
+	</word>
+
+	<word token="ang">
+		<entry tag="DT" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="alam">
+		<entry tag="VB" lang="2">
+		</entry>
+
+	</word>
+
+	<word token="always">
+		<entry tag="RB" lang="1">
+		</entry>
+
+	</word>
+
+	<word token="ano">
+		<entry tag="WP" lang="2">
+		</entry>
+
+	</word>
+
+	<word token="are">
+		<entry tag="VBP" lang="1">
+		</entry>
+
+	</word>
+
+	<word token="ay">
+		<entry tag="VBZ" lang="2">
+		</entry>
+		<entry tag="VBP" lang="2">
+		</entry>
+
+	</word>
+
+	<word token="ayaw">
+		<entry tag="RB" lang="2">
+		</entry>
+
+	</word>
+
+	<word token="babalik">
+		<entry tag="VBG" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="back">
+		<entry tag="NN" lang="1">
+		</entry>
+		<entry tag="RB" lang="1">
+		</entry>
+		<entry tag="JJ" lang="1">
+		</entry>
+		<entry tag="VB" lang="1">
+		</entry>
+
+	</word>
+
+	<word token="bago">
+		<entry tag="IN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="bakit">
+		<entry tag="WRB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="be">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="being">
+		<entry tag="VBG" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="become">
+		<entry tag="VB" lang="1">
+		</entry>
+
+	</word>
+
+	<word token="before">
+		<entry tag="RB" lang="1">
+		</entry>
+		<entry tag="IN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="biglaang">
+		<entry tag="RB" lang="2">
+		</entry>
+
+	</word>
+
+	<word token="binigay">
+		<entry tag="VBD" lang="2">
+		</entry>
+
+	</word>
+
+	<word token="bring">
+		<entry tag="VB" lang="1">
+		</entry>
+
+	</word>
+
+	<word token="button">
+		<entry tag="NN">
+		</entry>
+
+	</word>
+
+	<word token="can">
+		<entry tag="MD" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="cached">
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="crash">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="crashing">
+		<entry tag="VBG" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="cancel">
+		<entry tag="VB">
+		</entry>
+		
+	</word>
+
+	<word token="change">
+		<entry tag="VB" lang="1">
+		</entry>
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="check">
+		<entry tag="VB" lang="1">
+		</entry>
+		<entry tag="NN">
+		</entry>
+		
+	</word>
+
+	<word token="coming">
+		<entry tag="VBG" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="complete">
+		<entry tag="JJ" lang="1">
+		</entry>
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="course">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="could">
+		<entry tag="MD" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="courses">
+		<entry tag="NNS">
+		</entry>
+		
+	</word>
+
+	<word token="date">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="did">
+		<entry tag="VBD" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="dismissed">
+		<entry tag="VBD" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="disappear">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="do">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="dream">
+		<entry tag="NN" lang="1">
+		</entry>
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="does">
+		<entry tag="VBZ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="enter">
+		<entry tag="NN" lang="1">
+		</entry>
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="elective">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="electives">
+		<entry tag="NNS" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="education">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="extended">
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="enlistment">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="feature">
+		<entry tag="NN">
+		</entry>
+		
+	</word>
+
+	<word token="finalize">
+		<entry tag="VB">
+		</entry>
+		
+	</word>
+
+	<word token="finalizing">
+		<entry tag="VBG">
+		</entry>
+		
+	</word>
+
+	<word token="find">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="for">
+		<entry tag="IN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="form">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="from">
+		<entry tag="IN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="function">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="gagawin">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="gaano">
+		<entry tag="WRB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="galing">
+		<entry tag="NN" lang="2">
+		</entry>
+		<entry tag="JJ" lang="2">
+		</entry>
+		<entry tag="IN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="get">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="getting">
+		<entry tag="VBG" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="given">
+		<entry tag="NN" lang="1">
+		</entry>
+		<entry tag="VBN" lang="1">
+		</entry>
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="good">
+		<entry tag="JJ">
+		</entry>
+		
+	</word>
+
+	<word token="go">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="gumagana">
+		<entry tag="VBG" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="hang">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="hanging">
+		<entry tag="VBG" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="has">
+		<entry tag="VBZ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="have">
+		<entry tag="VBP" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="had">
+		<entry tag="VBD" lang="1">
+		</entry>
+		<entry tag="VBN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="happen">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="happening">
+		<entry tag="VBG" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="held">
+		<entry tag="VBD" lang="1">
+		</entry>
+		<entry tag="VBN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="hello">
+		<entry tag="UH">
+		</entry>
+		
+	</word>
+
+	<word token="hi">
+		<entry tag="UH">
+		</entry>
+		
+	</word>
+
+	<word token="hihintayin">
+		<entry tag="VBF">
+		</entry>
+		
+	</word>
+
+	<word token="hindi">
+		<entry tag="RB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="how">
+		<entry tag="WRB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="hour">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="hours">
+		<entry tag="NNS" lang="1">
+		</entry>
+		
+	</word>
+
+
+
+	<word token="i">
+		<entry tag="PP" lang="1">
+		</entry>
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="ibinigay">
+		<entry tag="VBD" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="ibig">
+		<entry tag="NN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="identification">
+		<entry tag="NN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="if">
+		<entry tag="IN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="in">
+		<entry tag="IN" lang="1">
+		</entry>
+		<entry tag="RB">
+		</entry>
+		
+	</word>
+
+	<word token="at">
+		<entry tag="IN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="included">
+		<entry tag="VBD" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="is">
+		<entry tag="VBZ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="issue">
+		<entry tag="VB" lang="1">
+		</entry>
+		<entry tag="NN" lang="1">
+			<synonyms>problem</synonyms>
+		</entry>
+		
+	</word>
+
+	<word token="issued">
+		<entry tag="VBD" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="issues">
+		<entry tag="NNS" lang="1">
+			<synonyms>problems</synonyms>
+		</entry>
+		
+	</word>
+
+	<word token="join">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="kailan">
+		<entry tag="WRB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="katagal">
+		<entry tag="RB" lang="2">
+		</entry>
+		<entry tag="JJ" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="kailangan">
+		<entry tag="MD" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="kanina">
+		<entry tag="RB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="kasali">
+		<entry tag="NN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="kapag">
+		<entry tag="IN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="kasama">
+		<entry tag="NN" lang="2">
+		</entry>
+		<entry tag="JJ" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="ko">
+		<entry tag="PP$" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="kumpleto">
+		<entry tag="JJ" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="kung">
+		<entry tag="IN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="kukuha">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="kukunin">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="leave">
+		<entry tag="VB" lang="1">
+		</entry>
+		<entry tag="NN">
+		</entry>
+		
+	</word>
+
+	<word token="load">
+		<entry tag="VB" lang="1">
+		</entry>
+		<entry tag="NN">
+		</entry>
+		
+	</word>
+
+	<word token="log">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="lugar">
+		<entry tag="NN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="login">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="magiging">
+		<entry tag="JJ" lang="2">
+		</entry>
+		<entry tag="NN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="magdala">
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="max">
+		<entry tag="RB" lang="1">
+		</entry>
+		<entry tag="VB" lang="1">
+		</entry>
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="mag">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="missing">
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="nag">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="napunta">
+		<entry tag="VBD" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="nakapag">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="makapag">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="makaka">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="makuha">
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="makukuha">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="makasali">
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="makakasali">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="maka">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="nakaka">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="naka">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="nito">
+		<entry tag="WDT" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="pagkatapos">
+		<entry tag="IN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="pan">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="pam">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="pang">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="Physical">
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="na">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="ma">
+		<entry tag="UNL" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="magpalit">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="magsisimula">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="simula">
+		<entry tag="VB" lang="2">
+		</entry>
+		<entry tag="NN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="mahanap">
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="mahahanap">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="magaganap">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="makapasok">
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="makikita">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="mangyayari">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="manual">
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="may">
+		<entry tag="NN">
+		</entry>
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="many">
+		<entry tag="JJ" lang="1">
+		</entry>
+		<entry tag="PP" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="move">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="moved">
+		<entry tag="VBD" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="my">
+		<entry tag="PP$" lang="1">
+		</entry>
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="na">
+		<entry tag="RB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="naging">
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="namin">
+		<entry tag="PP$" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="nawala">
+		<entry tag="VBD" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="ng">
+		<entry tag="IN" lang="2">
+		</entry>
+
+	</word>
+
+	<word token="ngayon">
+		<entry tag="JJ" lang="2">
+		</entry>
+		<entry tag="RB" lang="2">
+		</entry>
+		<entry tag="NN" lang="2">
+		</entry>
+
+	</word>
+
+	<word token="ngayong">
+		<entry tag="WDT" lang="2">
+		</entry>
+	</word>
+
+	<word token="next">
+		<entry tag="JJ" lang="1">
+		</entry>
+		<entry tag="RB" lang="1">
+		</entry>
+
+	</word>
+
+	<word token="not">
+		<entry tag="RB" lang="1">
+		</entry>
+
+	</word>
+
+	<word token="no">
+		<entry tag="JJ" lang="1">
+		</entry>
+		<entry tag="RB" lang="1">
+		</entry>
+
+	</word>
+
+	<word token="of">
+		<entry tag="IN">
+		</entry>
+		
+	</word>
+
+	<word token="our">
+		<entry tag="PP" lang="1">
+		</entry>
+		<entry tag="NN">
+		</entry>
+		
+	</word>
+
+	<word token="online">
+		<entry tag="RB" lang="1">
+		</entry>
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="only">
+		<entry tag="RB" lang="1">
+		</entry>
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="lagi">
+		<entry tag="RB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="lahat">
+		<entry tag="JJ" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="lang">
+		<entry tag="RB" lang="2">
+		</entry>
+		<entry tag="JJ" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="last">
+		<entry tag="RB" lang="1">
+		</entry>
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="option">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="open">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="paano">
+		<entry tag="RB" lang="2">
+		</entry>
+		<entry tag="IN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="password">
+		<entry tag="NN">
+		</entry>
+		<entry tag="NN">
+		</entry>
+		
+	</word>
+
+	<word token="probee">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="probation">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="problem">
+		<entry tag="NN" lang="1">
+			<synonyms>issue</synonyms>
+		</entry>
+		
+	</word>
+
+	<word token="process">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="problems">
+		<entry tag="NNS" lang="1">
+			<synonyms>issues</synonyms>
+		</entry>
+		
+	</word>
+
+	<word token="dagdag">
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="deadline">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="pandagdag">
+		<entry tag="NN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="para">
+		<entry tag="IN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="part">
+		<entry tag="NN" lang="1">
+		</entry>
+		<entry tag="JJ" lang="1">
+		</entry>
+		<entry tag="VB" lang="1">
+		</entry>
+		<entry tag="RB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="period">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="pero">
+		<entry tag="IN" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="puwede">
+		<entry tag="VBD" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="recommended">
+		<entry tag="VBD">
+		</entry>
+		
+	</word>
+
+	<word token="registration">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="register">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="sa">
+		<entry tag="TO" lang="2">
+		</entry>
+		<entry tag="IN" lang="2">
+		</entry>
+				
+	</word>
+
+	<word token="saan">
+		<entry tag="WRB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="sabihin">
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="sasali">
+		<entry tag="VBF" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="site">
+		<entry tag="NN">
+		</entry>
+		
+	</word>
+
+	<word token="schedule">
+		<entry tag="NN">
+		</entry>
+		<entry tag="VB">
+		</entry>
+		
+	</word>
+
+	<word token="scholar">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="scholars">
+		<entry tag="NNS" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="scholarship">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="semester">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="server">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="should">
+		<entry tag="MD" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="so">
+		<entry tag="IN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="stamping">
+		<entry tag="VBG">
+		</entry>
+		
+	</word>
+
+	<word token="standing">
+		<entry tag="NN">
+		</entry>
+		<entry tag="VBG">
+		</entry>
+		
+	</word>
+
+	<word token="start">
+		<entry tag="NN" lang="1">
+		</entry>
+		<entry tag="VB" lang="1">
+			<synonyms>begin</synonyms>
+		</entry>
+		
+	</word>
+
+	<word token="starting">
+		<entry tag="VBG" lang="1">
+			<synonyms>begin</synonyms>
+		</entry>
+		
+	</word>
+
+	<word token="stragglers">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="subject">
+		<entry tag="NN">
+		</entry>
+		
+	</word>
+
+	<word token="submit">
+		<entry tag="VB">
+		</entry>
+		
+	</word>
+
+	<word token="subjects">
+		<entry tag="NNS">
+		</entry>
+		
+	</word>
+
+	<word token="swap">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="sumali">
+		<entry tag="VBD" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="systemone">
+		<entry tag="NN" lang="1">
+			<synonyms>S1,SysOne,SystemOne</synonyms>
+		</entry>
+		
+	</word>
+
+	<word token="take">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="the">
+		<entry tag="DT" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="then">
+		<entry tag="RB" lang="1">
+		</entry>
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="there">
+		<entry tag="RB" lang="1">
+		</entry>
+		<entry tag="PP" lang="1">
+		</entry>
+		<entry tag="EX" lang="1">
+		</entry>
+
+	</word>
+
+	<word token="this">
+		<entry tag="WDT" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="time">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="to">
+		<entry tag="TO" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="turn">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="turned">
+		<entry tag="VBD" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="ulit">
+		<entry tag="RB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="units">
+		<entry tag="NNS">
+		</entry>
+		
+	</word>
+
+	<word token="username">
+		<entry tag="NN">
+		</entry>
+		
+	</word>
+
+	<word token="wala">
+		<entry tag="JJ" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="wait">
+		<entry tag="VB" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="we">
+		<entry tag="PP" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="what">
+		<entry tag="WP" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="when">
+		<entry tag="WRB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="where">
+		<entry tag="WRB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="why">
+		<entry tag="WRB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="will">
+		<entry tag="MD" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="window">
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="with">
+		<entry tag="IN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="without">
+		<entry tag="JJ" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="work">
+		<entry tag="VB" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="working">
+		<entry tag="VBG" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="you">
+		<entry tag="PP" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="invalid">
+		<entry tag="JJ" lang="1">
+		</entry>
+		<entry tag="NN" lang="1">
+		</entry>
+		
+	</word>
+
+	<word token="iyon">
+		<entry tag="WDT" lang="2">
+		</entry>
+		
+	</word>
+
+	<word token="walang">
+		<entry tag="CD" lang="2">
+		</entry>
+		<entry tag="RB" lang="2">
+		</entry>
+	</word>
+
+	<word token="zero">
+		<entry tag="CD" lang="1">
+		</entry>
+		
+	</word>
+
+</dictionary>

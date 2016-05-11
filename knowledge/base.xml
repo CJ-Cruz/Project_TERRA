@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knowledge version="1.0" language="English">
+
+	<entry group="catcher">
+		<question>
+			<qentry>how to ?</qentry>
+			<qentry>when is ?</qentry>
+			<qentry>where is ?</qentry>
+			<qentry>what is ?</qentry>
+			<qentry>why is ?</qentry>
+			<qentry>how can ?</qentry>
+			<qentry>when can ?</qentry>
+			<qentry>where can ?</qentry>
+			<qentry>what can ?</qentry>
+			<qentry>why can ?</qentry>
+			<qentry>paano ang ?</qentry>
+			<qentry>ano ang ?</qentry>
+			<qentry>saan ang ?</qentry>
+			<qentry>kailan ang ?</qentry>
+		</question>
+		<answer>
+			<aentry></aentry>
+		</answer>
+	</entry>
+
+</knowledge>

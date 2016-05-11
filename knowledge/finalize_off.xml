@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knowledge version="1.0" language="English">
+
+	<entry group="finalize feature offline" lang="1">
+		<answer>
+			<aentry>The finalize feature is not yet online.</aentry>
+			<aentry>Systemone registration services are not yet online.</aentry>
+			<aentry>Please wait for the actual online date of Systemone services.</aentry>
+		</answer>
+		<question>
+			<qentry>I can't use the finalize button.</qentry>
+			<qentry>The finalize button is not working.</qentry>
+			<qentry>Why is the finalize button not working?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="finalize feature offline" lang="2">
+		<answer>
+			<aentry>Hindi pa online ang finalize feature.</aentry>
+			<aentry>Hindi pa handa ang Systemone registration services.</aentry>
+			<aentry>Pakihintay ang actual online date ng Systemone services.</aentry>
+		</answer>
+		<question>
+			<qentry>Hindi ko ma finalize ang subjects ko.</qentry>
+			<qentry>Hindi gumagana ang finalize button.</qentry>
+			<qentry>Bakit sira ang finalize button?</qentry>
+			<qentry>Bakit hindi gumagana ang finalize button?</qentry>
+			
+		</question>
+	</entry>
+
+</knowledge>

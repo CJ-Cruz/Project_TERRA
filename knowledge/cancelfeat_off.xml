@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knowledge version="1.0" language="English">
+
+	<entry group="cancel feature offline" lang="1">
+		<answer>
+			<aentry>The cancel feature is not yet online.</aentry>
+			<aentry>Systemone registration services are not yet online.</aentry>
+			<aentry>Please wait for the actual online date of Systemone services.</aentry>
+		</answer>
+		<question>
+			<qentry>I can't cancel my subjects.</qentry>
+			<qentry>I can't use cancel feature.</qentry>
+			<qentry>cancel feature doesn't work.</qentry>
+			<qentry>cancel feature is not working.</qentry>
+			<qentry>Why can't I cancel my subjects?</qentry>
+			<qentry>I can't cancel my subject.</qentry>
+			<qentry>I can't cancel a subject.</qentry>
+			<qentry>Why can't I cancel my subject?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="cancel feature offline" lang="2">
+		<answer>
+			<aentry>Hindi pa online ang cancel feature.</aentry>
+			<aentry>Hindi pa handa ang Systemone registration services.</aentry>
+			<aentry>Pakihintay ang actual online date ng Systemone services.</aentry>
+		</answer>
+		<question>
+			<qentry>Hindi ko ma cancel ang subjects ko.</qentry>
+			<qentry>Hindi ko ma cancel ang subject ko.</qentry>
+			<qentry>Hindi ko magamit ang cancel feature.</qentry>
+			<qentry>Hindi gumagana ang cancel feature.</qentry>
+			<qentry>Bakit hindi ko ma cancel ang subjects ko?</qentry>
+			<qentry>Bakit hindi ako makapag cancel ng subject?</qentry>
+			<qentry>Bakit hindi ako makapag cancel ng subjects?</qentry>
+			
+		</question>
+	</entry>
+
+</knowledge>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knowledge version="1.0" language="English">
+
+	<entry group="systemone start date" lang="1">
+		<question>
+			<qentry>when is the online registration?</qentry>
+			<qentry>when is the start of online registration?</qentry>
+			<qentry>when will be the start of online registration?</qentry>
+			<qentry>when will systemone be online?</qentry>
+			<qentry>when will online registration start?</qentry>
+			<qentry>when will the registration be?</qentry>
+			<qentry>when will the registration happen?</qentry>
+			<qentry>when will the registration be happening?</qentry>
+			<qentry>when is the systemone registration?</qentry>
+			<qentry>when is the date of systemone registration?</qentry>
+			<qentry>when is the start of systemone registration?</qentry>
+			
+		</question>
+		<answer>
+			<aentry>The online registration will start on [s1 date].</aentry>
+			<aentry>Systemone will be online on [s1 date].</aentry>
+			<aentry>It is on [s1 date].</aentry>
+		</answer>
+	</entry>
+
+	<entry group="systemone start date" lang="2">
+		<answer>
+			<aentry>Magsisimula ang online registration sa [s1 date].</aentry>
+			<aentry>Magiging online ang Systemone sa [s1 date].</aentry>
+			<aentry>Sa [s1 date].</aentry>
+		</answer>
+		<question>
+			<qentry>kailan ang online registration?</qentry>
+			<qentry>kailan mangyayari ang online registration?</qentry>
+			<qentry>kailan magaganap ang online registration?</qentry>
+			<qentry>kailan magiging online ang systemone?</qentry>
+			<qentry>online na ang systemone?</qentry>
+			<qentry>online ang systemone?</qentry>
+			<qentry>kailan magsisimula ang online registration?</qentry>
+		</question>
+	</entry>
+
+	<entry group="start date AE" lang="1">
+		<answer>
+			<aentry>It is on [ae date].</aentry>
+			<aentry>You can participate in Assisted Enlistment on [ae date].</aentry>
+			<aentry>Assisted Enlistment will start on [ae date].</aentry>
+		</answer>
+		<question>
+			<qentry>when is the assisted enlistment?</qentry>
+			<qentry>when is the date of assisted enlistment?</qentry>
+			<qentry>when is the start of assisted enlistment?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="start date AE" lang="2">
+		<answer>
+			<aentry>Sa [ae date] ang Assisted Enlistment.</aentry>
+			<aentry>Ang Assisted Enlistment ay magaganap sa [ae date].</aentry>
+			<aentry>Magsisimula ang Assisted Enlistment sa [ae date].</aentry>
+		</answer>
+		<question>
+			<qentry>kailan ang assisted enlistment?</qentry>
+			<qentry>anong araw ang assisted enlistment?</qentry>
+			<qentry>anong araw magaganap ang assisted enlistment?</qentry>
+			<qentry>anong araw mangyayari ang assisted enlistment?</qentry>
+			<qentry>kailan magaganap ang assisted enlistment?</qentry>
+			<qentry>kailan mangyayari ang assisted enlistment?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="where AE" lang="1">
+		<answer>
+			<aentry>AE will be held at [ae location].</aentry>
+			<aentry>You can participate in AE at [ae location].</aentry>
+			<aentry>It is at [ae location].</aentry>
+		</answer>
+		<question>
+			<qentry>where is the assisted enlistment?</qentry>
+			<qentry>where will the assisted enlistment be held?</qentry>
+			<qentry>where is assisted enlistment held?</qentry>
+			<qentry>where can I find the assisted enlistment?</qentry>
+			<qentry>where can I join the assisted enlistment?</qentry>
+			<qentry>where are the locations of the assisted enlistment?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="where AE" lang="2">
+		<answer>
+			<aentry>Sa [ae location] ang AE.</aentry>
+			<aentry>Ang AE ay magaganap sa [ae location].</aentry>
+			<aentry>Puwedeng sumali sa AE sa [ae date].</aentry>
+		</answer>
+		<question>
+			<qentry>saan ang assisted enlistment?</qentry>
+			<qentry>saan ang lugar ng assisted enlistment?</qentry>
+			<qentry>saan puwede sumali sa assisted enlistment?</qentry>
+			<qentry>saan puwede makasali sa assisted enlistment?</qentry>
+			<qentry>saan makakasali sa assisted enlistment?</qentry>
+			<qentry>saan magaganap ang assisted enlistment?</qentry>
+			<qentry>saan mahahaanap ang assisted enlistment?</qentry>
+			<qentry>saan mangyayari ang assisted enlistment?</qentry>
+			
+		</question>
+	</entry>
+
+</knowledge>

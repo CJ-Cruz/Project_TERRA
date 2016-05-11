@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knowledge version="1.0" language="English">
+
+	<entry group="stragglers date" lang="1">
+		<question>
+			<qentry>when is the stragglers?</qentry>
+		</question>
+		<answer>
+			<aentry>It is on [stragglers date] at [stragglers start time].</aentry>
+		</answer>
+	</entry>
+
+	<entry group="stragglers date" lang="2">
+		<answer>
+			<aentry>Sa [stragglers date] sa [stragglers start time].</aentry>
+		</answer>
+		<question>
+			<qentry>kailan ang stragglers?</qentry>
+		</question>
+	</entry>
+
+	<entry group="stragglers start time" lang="1">
+		<question>
+			<qentry>when is the stragglers starting?</qentry>
+			<qentry>what time is the stragglers starting?</qentry>
+			<qentry>when is the stragglers start time?</qentry>
+		</question>
+		<answer>
+			<aentry>It is on [stragglers start time].</aentry>
+		</answer>
+	</entry>
+
+	<entry group="stragglers start time" lang="2">
+		<answer>
+			<aentry>Sa [stragglers start time].</aentry>
+		</answer>
+		<question>
+			<qentry>kailan magsisimula ang stragglers?</qentry>
+			<qentry>anong oras magsisimula ang stragglers?</qentry>
+		</question>
+	</entry>
+
+	<entry group="stragglers confirm" lang="1">
+		<answer>
+			<aentry>Yes.</aentry>
+			<aentry>Yes, the date is on [stragglers date].</aentry>
+		</answer>
+		<question>
+			<qentry>is there stragglers?</qentry>
+			<qentry>is there stragglers this registration?</qentry>
+		</question>
+	</entry>
+
+	<entry group="stragglers confirm" lang="2">
+		<answer>
+			<aentry>Meron.</aentry>
+			<aentry>Oo, sa [stragglers date] mangyayari.</aentry>
+		</answer>
+		<question>
+			<qentry>may stragglers ngayon?</qentry>
+			<qentry>may stragglers this semester?</qentry>
+			<qentry>may stragglers ngayong registration?</qentry>
+		</question>
+	</entry>
+
+
+
+</knowledge>

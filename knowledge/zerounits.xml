@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knowledge version="1.0" language="English">
+	<entry group="zero units" lang="1">
+		<answer>
+			<aentry>[reply to 0 units problem].</aentry>
+		</answer>
+		<question>
+			<qentry>Why do I have 0 units?</qentry>
+			<qentry>Why did my units become 0?</qentry>
+			<qentry>Why did my subjects disappear?</qentry>
+			<qentry>Where did my all subjects go?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="zero units" lang="2">
+		<answer>
+			<aentry>[sagot sa problema sa 0 units].</aentry>
+		</answer>
+		<question>
+			<qentry>Bakit 0 units ako?</qentry>
+			<qentry>Bakit naging 0 units ako?</qentry>
+			<qentry>Bakit naging 0 ang units ko?</qentry>
+			<qentry>Bakit nawala ang subjects ko?</qentry>
+			<qentry>San napunta ang lahat ng subjects ko?</qentry>
+
+		</question>
+	</entry>
+
+	<entry group="zero units todo" lang="1">
+		<answer>
+			<aentry>Please attend the Manual Registration on [ae date] at [ae location].</aentry>
+		</answer>
+		<question>
+			<qentry>What should I do if I have 0 units?</qentry>
+			<qentry>What will I do if I have 0 units?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="zero units todo" lang="2">
+		<answer>
+			<aentry>Please, sumali ka sa Manual Registration sa [ae date] sa [ae location].</aentry>
+		</answer>
+		<question>
+			<qentry>Ano ang gagawin kapag 0 units ako?</qentry>
+			<qentry>Ano ang pwedeng gawin kapag 0 units ako?</qentry>
+			<qentry>Anong maaaring gawin kapag 0 units ako?</qentry>
+			
+		</question>
+	</entry>
+</knowledge>

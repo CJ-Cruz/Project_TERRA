@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knowledge version="1.0" language="English">
+
+	<entry group="systemone offline" lang="1">
+		<answer>
+			<aentry>There is currently a problem within the server.</aentry>
+			<aentry>Systemone is currently having some issues.</aentry>
+			<aentry>Systemone is under maintenance.</aentry>
+		</answer>
+		<question>
+			<qentry>why can not I enter the server?</qentry>
+			<qentry>why can not I enter systemone?</qentry>
+			<qentry>why can not I access systemone?</qentry>
+			<qentry>why can not I login?</qentry>
+			<qentry>I can't login.</qentry>
+			<qentry>I can't access systemone.</qentry>
+			<qentry>how to enter the server?</qentry>
+			<qentry>how to enter systemone?</qentry>
+			<qentry>how to login?</qentry>
+			
+		</question>
+	</entry>
+
+	<entry group="systemone offline" lang="2">
+		<answer>
+			<aentry>May inaayos pa sa Systemone.</aentry>
+			<aentry>Hindi pa handa ang Systemone.</aentry>
+			<aentry>Under maintenance pa ang Systemone.</aentry>
+		</answer>
+		<question>
+			<qentry>bakit hindi maaccess ang systemone?</qentry>
+			<qentry>bakit hindi makapasok sa server?</qentry>
+			<qentry>bakit hindi makapasok sa systemone?</qentry>
+			<qentry>bakit ayaw mag login?</qentry>
+			<qentry>bakit hindi ako makapag login?</qentry>
+			<qentry>hindi ako maka login.</qentry>
+			<qentry>hindi maka login.</qentry>
+			<qentry>paano makapasok sa server?</qentry>
+			<qentry>paano makapasok sa systemone?</qentry>
+			<qentry>paano maka login?</qentry>
+			<qentry>bakit down ang website?</qentry>
+			<qentry>di ako makapasok sa server.</qentry>
+			
+		</question>
+	</entry>
+
+</knowledge>
